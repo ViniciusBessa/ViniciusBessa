@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ViniciusBessa
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Javascript, ReactJs, Gatsby and SQL 
+- 🌱 I’m currently learning Typescript, Angular, NestJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vinicius.b.silva3@gmail.com
 
