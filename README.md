@@ -1,4 +1,4 @@
-### Sobre mim
+## Sobre mim
 ---
 
 🎓 Eu sou Vinícius Bessa, um estudante de Análise e Desenvolvimento de Sistemas na Uninter.
@@ -7,7 +7,7 @@
 
 📚 E é claro que eu também possuo outros hobbies. Eles vão desde ler livros, jogar videogame e ver vídeos no youtube até aumentar a minha velocidade teclando.
 
-### 🛠️ Habilidades
+## 🛠️ Habilidades
 ---
 
 <div align="center">
@@ -44,7 +44,7 @@
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 </div>
 
-### 📈 Stats
+## 📈 Stats
 ---
 
 <p align="center">
