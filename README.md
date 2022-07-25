@@ -52,7 +52,7 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBessa" alt="Minhas linguagens mais utilizadas"/>
 </p>
 
-<div align=center>
+<div align="center">
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-bessa-54205819a/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M12 9.55C12.917 8.613 14.111 8 15.5 8a5.5 5.5 0 0 1 5.5 5.5V21h-2v-7.5a3.5 3.5 0 0 0-7 0V21h-2V8.5h2v1.05zM5 6.5a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm-1 2h2V21H4V8.5z" fill="rgba(0,110,255,1)"/></svg></a>
   <a href="mailto:vinicius.b.silva3@gmail.com"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M3 3h18a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1zm17 4.238l-7.928 7.1L4 7.216V19h16V7.238zM4.511 5l7.55 6.662L19.502 5H4.511z" fill="rgba(0,110,255,1)"/></svg></a>
 </div>
