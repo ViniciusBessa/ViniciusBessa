@@ -1,5 +1,4 @@
 ## Sobre mim
----
 
 🎓 Eu sou Vinícius Bessa, um estudante de Análise e Desenvolvimento de Sistemas na Uninter.
 
@@ -8,7 +7,6 @@
 📚 E é claro que eu também possuo outros hobbies. Eles vão desde ler livros, jogar videogame e ver vídeos no youtube até aumentar a minha velocidade teclando.
 
 ## 🛠️ Habilidades
----
 
 <div align="center">
   <h3>Frontend</h3>
@@ -45,7 +43,6 @@
 </div>
 
 ## 📈 Stats
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ViniciusBessa" alt="Meus status" />
