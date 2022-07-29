@@ -57,7 +57,7 @@
 
 <div align="center">
   <a href="mailto:vinicius.b.silva3@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/vin%C3%ADcius-bessa-54205819a"><img src="https://img.shields.io/badge/Linkedin-0672bf?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-bessa-da-silva-54205819a/"><img src="https://img.shields.io/badge/Linkedin-0672bf?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 </div>
 
 <!---
