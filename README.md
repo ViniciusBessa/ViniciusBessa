@@ -1,6 +1,6 @@
 ## 👋 Sobre mim
 
-🎓 Eu sou Vinícius Bessa, tecnólogo em Análise e Desenvolvimento de Sistemas na Uninter.
+🎓 Eu sou Vinícius Bessa, tecnólogo em Análise e Desenvolvimento de Sistemas pela Uninter.
 
 🖥️ Eu sempre busco aprender mais sobre o mundo da tecnologia, seja aprendendo uma nova linguagem, ou me aprimorando em um framework que eu já conheça.
 
