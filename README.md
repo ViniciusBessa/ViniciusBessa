@@ -36,8 +36,6 @@
   <h3>Frameworks de teste</h3>
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 
-  <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain-wordmark.svg" />
-
 ---
 
   <h3>Ferramentas</h3>
