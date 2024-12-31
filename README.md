@@ -43,16 +43,6 @@
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 </div>
 
-## 📈 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusBessa" alt="Meus status" />
-</p>
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBessa" alt="Minhas linguagens mais utilizadas"/>
-</p>
-
 <div align="center">
   <a href="mailto:vinicius.b.silva3@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-bessa-da-silva-54205819a/"><img src="https://img.shields.io/badge/Linkedin-0672bf?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
